@@ -15,3 +15,8 @@ Labo playground les 2
 Keynote: operatoren
 
 labo playground les 3
+
+# Hoofdstuk 1 les 4 : Control flow
+Keynote: Control flow
+
+Labo playbround les 4
